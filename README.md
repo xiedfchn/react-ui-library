@@ -1,4 +1,6 @@
-﻿# react ui library
+# react ui library
+
+Storybook 6.3 doesn't work properly with the current version of react, wait for 6.4
 
 ## Create A react app
 Set up a react app by running command `npx create-react-app react-ui-library`
